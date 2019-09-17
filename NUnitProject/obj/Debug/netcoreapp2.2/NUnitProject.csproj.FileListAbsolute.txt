@@ -1,0 +1,14 @@
+/Users/bklein/Documents/Developer/NUnitProject/NUnitProject/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/bklein/Documents/Developer/NUnitProject/NUnitProject/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/bklein/Documents/Developer/NUnitProject/NUnitProject/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/bklein/Documents/Developer/NUnitProject/NUnitProject/bin/Debug/netcoreapp2.2/NUnitProject.deps.json
+/Users/bklein/Documents/Developer/NUnitProject/NUnitProject/bin/Debug/netcoreapp2.2/NUnitProject.runtimeconfig.json
+/Users/bklein/Documents/Developer/NUnitProject/NUnitProject/bin/Debug/netcoreapp2.2/NUnitProject.runtimeconfig.dev.json
+/Users/bklein/Documents/Developer/NUnitProject/NUnitProject/bin/Debug/netcoreapp2.2/NUnitProject.dll
+/Users/bklein/Documents/Developer/NUnitProject/NUnitProject/bin/Debug/netcoreapp2.2/NUnitProject.pdb
+/Users/bklein/Documents/Developer/NUnitProject/NUnitProject/obj/Debug/netcoreapp2.2/NUnitProject.csprojAssemblyReference.cache
+/Users/bklein/Documents/Developer/NUnitProject/NUnitProject/obj/Debug/netcoreapp2.2/NUnitProject.csproj.CoreCompileInputs.cache
+/Users/bklein/Documents/Developer/NUnitProject/NUnitProject/obj/Debug/netcoreapp2.2/NUnitProject.AssemblyInfoInputs.cache
+/Users/bklein/Documents/Developer/NUnitProject/NUnitProject/obj/Debug/netcoreapp2.2/NUnitProject.AssemblyInfo.cs
+/Users/bklein/Documents/Developer/NUnitProject/NUnitProject/obj/Debug/netcoreapp2.2/NUnitProject.dll
+/Users/bklein/Documents/Developer/NUnitProject/NUnitProject/obj/Debug/netcoreapp2.2/NUnitProject.pdb
